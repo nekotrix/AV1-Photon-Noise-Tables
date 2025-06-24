@@ -1,2 +1,4 @@
-# AV1 The Super Documentation
-This is a general Git repository to store important/novel information and files about the AV1 standard itself and its various implementations in form of encoders, decoders, libraries, and players.
+# AV1 Photon Noise Tables
+This is a general Git repository to store photon noise tables (and scripts) usable with all three main software AV1 encoders and grav1synth.
+
+Simply choose the table most appropriate for your encode resolution and color characteristics. Higher ISOs correspond to higher strengths. If unsure, use the SRGB variants.
